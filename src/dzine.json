@@ -1,0 +1,1640 @@
+[
+  {
+    "name": "Dzine Realistic v3",
+    "style_code": "Style-322a0367-3949-49f7-92af-d9bc66f326fa",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Realistic Product",
+    "style_code": "Style-d3c46c68-846b-4c10-b66f-c8f404efdb72",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine General",
+    "style_code": "Style-a073d6da-b815-410d-85a7-de14b42e7d03",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Dzine 3D Render v2",
+    "style_code": "Style-aa024cb0-e9c0-4ec1-9214-a320d8cdd961",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Dzine Realistic v3",
+    "style_code": "Style-dc93f758-d28e-4d05-a14d-654fcf05b1fe",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Realistic v2",
+    "style_code": "Style-f5ff2375-4bf9-4580-bf59-bf6d633e8dad",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Realistic",
+    "style_code": "Style-12325d6b-f0c2-4570-a8a3-1c15124ea703",
+    "style_base_model": "S",
+    "style_intensity": 0
+  },
+  {
+    "name": "Realistic Product",
+    "style_code": "Style-902b4328-0b5c-4c5d-ac5f-eb8854a4173f",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Cozy 3D",
+    "style_code": "Style-aaf1030f-0a27-4481-a118-d6b3a4a082d0",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Golden Era Illustrations",
+    "style_code": "Style-50e643a5-9fb1-4677-b0f4-c00d06410c09",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Realistic Atmosphere",
+    "style_code": "Style-e4dfc4b3-2951-4eff-a2a4-de4cc72117a4",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Green Tint",
+    "style_code": "Style-59336894-46a7-4707-b727-2b0def032b78",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Sarcastic Snapshot",
+    "style_code": "Style-1b149814-d6b0-45b9-b9de-a7a82c0061f3",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Classic Watercolor",
+    "style_code": "Style-48877c27-0698-4809-a3b4-0d6a65460959",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Playful Critters",
+    "style_code": "Style-a69c5cdb-71aa-4b6d-9d2a-b05e1380c253",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "CCD Retro",
+    "style_code": "Style-eb0dbad0-a27d-49e7-b58f-a0bf180998f9",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Cross Hatch",
+    "style_code": "Style-9fd871c4-a04b-43db-844d-04fe07cbcd92",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Joyful 3D",
+    "style_code": "Style-833b547a-dde7-4541-86d1-18bfe1dc4e51",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Gentle Adventure",
+    "style_code": "Style-b62bd63c-61c2-4568-aa9e-e38f767b3ffc",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine General (legacy)",
+    "style_code": "Style-60e18596-6e6d-4f1d-ba3c-073ce90f5c3f",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Dzine Realistic v2 (legacy)",
+    "style_code": "Style-f4f01dfa-0508-4329-9998-705987ea1ee1",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Caricature",
+    "style_code": "Style-002116bd-5583-4773-a3c5-39c09a56eb70",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Fish-eye Lens",
+    "style_code": "Style-42950cb3-87bf-4776-ad29-0cbc526ed539",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Studio Photography",
+    "style_code": "Style-f996d9e7-9dec-4074-833d-f7c495fe53c1",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Natural Serenity",
+    "style_code": "Style-550d73b4-8bef-4224-b414-62a545424085",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Fish-eye Lens",
+    "style_code": "Style-a7c360dc-52f7-4889-9885-f8bbc8107f16",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Nature's Canvas",
+    "style_code": "Style-6f518051-310f-418c-b321-80d2fecf57d9",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Studio Photography",
+    "style_code": "Style-08aaf101-31fa-49ae-b2ce-ea3b23974243",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Halftone Stripes",
+    "style_code": "Style-d2ddb187-8720-4f06-b9cf-3e54f70f8458",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "CCD Retro",
+    "style_code": "Style-8da4d165-9260-4a96-9c24-b364d64a0cb4",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Natural Serenity",
+    "style_code": "Style-dfdc4ceb-ac68-496d-b7b8-7589e372ebb3",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Green Tint",
+    "style_code": "Style-df1fbc90-7cd5-4c85-bec2-a51f96951913",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "BW Photo",
+    "style_code": "Style-02cae161-f5b4-4a36-b6d8-dd047c82c2a6",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Blurry Selfie",
+    "style_code": "Style-f5c34e82-e80d-41d9-bf46-ba4881c9e251",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Vintage Vibe",
+    "style_code": "Style-97172b70-c6f4-4edb-82da-29a00d7dacba",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Chalk Drawing",
+    "style_code": "Style-f270ff14-362b-4f7a-9b76-d8f2040c28e4",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Silhouette",
+    "style_code": "Style-e1d97c19-324b-46c4-a566-0ed6dcedb6ea",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Cross Hatch",
+    "style_code": "Style-7e1efe12-6faf-421c-8b5f-cf2d1e3025e1",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Tilt-shift Photography",
+    "style_code": "Style-cfb57768-56f7-4488-b8c9-6d106a13d16b",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Caricature",
+    "style_code": "Style-bac5be7a-722e-41c8-b8ae-61a37d7f232c",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Realistic Atmosphere",
+    "style_code": "Style-c2b9c953-78de-42cc-a79a-b0793e52cec0",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Tarot Lineart",
+    "style_code": "Style-1c5556ae-bee6-4e92-b75e-67df35f1cdee",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Bold Easy 4-6",
+    "style_code": "Style-f0d90533-05d6-4446-b59d-476df310dcbe",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Realistic v1",
+    "style_code": "Style-5ec84f2a-52a9-4a6e-a15e-ddb3911949c6",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Timeless Illustrated",
+    "style_code": "Style-a0e32949-7892-4f13-923d-fe90e087836d",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Bold Easy 1-3",
+    "style_code": "Style-a755fc5b-6e7c-41dd-b1de-e67c3ce7f0f2",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "PixiePop 3D",
+    "style_code": "Style-a13dc9e4-8329-478a-8098-07e6bd2c93e9",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Toon Face (legacy)",
+    "style_code": "Style-5773a474-18fd-47de-bb74-cf40c47231de",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "PixiePop 3D",
+    "style_code": "Style-7a23990c-65f7-4300-b2a1-f5a97263e66f",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Bold Easy 4-6",
+    "style_code": "Style-7794bcaf-4cdf-49c4-b61a-2ad61637f686",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Bold Easy 1-3",
+    "style_code": "Style-0a2591c9-0a72-4995-9241-9f89ca7510aa",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Paper Odyssey",
+    "style_code": "Style-0666b687-8f75-448b-aee7-d090c21cc20e",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "BizPortrait Standard",
+    "style_code": "Style-269c15a8-a86b-476c-988e-409415c8eeb6",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Cute Drawing",
+    "style_code": "Style-1c27f8fa-1e69-4dcc-af84-0c86d2db5613",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Ig Sketch",
+    "style_code": "Style-f7ed3e8a-7650-462b-9777-fbbaee81f30e",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "3D Lettering",
+    "style_code": "Style-ad032487-6998-497e-aab3-338f1310d1a0",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "3D Character",
+    "style_code": "Style-0f20e588-f8a4-4262-8caf-112fb0b7440c",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "3D Icon",
+    "style_code": "Style-3754ed73-bd59-41cd-9cdf-7f8eac59c583",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Timeless Illustrated",
+    "style_code": "Style-b6aa2c0a-f13f-42c6-a40a-7917deb9d149",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Playful Outline (legacy)",
+    "style_code": "Style-c6f6a5e3-65c4-4a0d-b525-66115e24f5ed",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Plush Toy",
+    "style_code": "Style-aa1930b9-245f-4858-a990-4768b044e981",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Playful Outline",
+    "style_code": "Style-a9607b1c-0c27-4d17-b3d1-42055c9a86e0",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Glossy Pop Icons",
+    "style_code": "Style-b73e70c5-5a84-4365-891c-b3335dfe3f7c",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Cozy 3D",
+    "style_code": "Style-5b1b0c35-7abc-4f14-8b1d-dc2748f34915",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Playful Critters",
+    "style_code": "Style-5348624a-0de8-4c49-9d88-aac548ba82f2",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Painterly Punk",
+    "style_code": "Style-19914bf2-db90-43e5-ab02-5ba4648cc920",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Golden Era Illustrations",
+    "style_code": "Style-a37d7b69-1f9a-42c4-a8e4-f429c29f4512",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Classic Watercolor",
+    "style_code": "Style-2478f952-50e7-4773-9cd3-c6056e774823",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Cute Icon",
+    "style_code": "Style-919b9db8-5b99-4a9b-ac5a-e8abc79995e3",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Pop Geometry",
+    "style_code": "Style-32cecce5-f1a6-4fd0-9969-878b9edba5e3",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dynamic Splash",
+    "style_code": "Style-310861a3-1053-4a22-864a-1a00535cf3ad",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Ukiyoe",
+    "style_code": "Style-28ed0ea9-249e-4f76-aeaf-e23b0aa9a050",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Gentle Adventure",
+    "style_code": "Style-a0f99023-b3ac-4573-a949-b3a8a4cdf509",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Pixel Adventure",
+    "style_code": "Style-50cab63a-afc8-4a7b-984c-ec0705027571",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Comic Noir",
+    "style_code": "Style-3f9353d0-554d-4b8c-95ef-a4d76e5991b7",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Joyful 3D",
+    "style_code": "Style-7de8976b-b152-466b-abad-20fb384ad08d",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Toon Portrait",
+    "style_code": "Style-552954ec-d5bc-4148-a5f9-4c7a42e41b2c",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Sarcastic Snapshot",
+    "style_code": "Style-80f4605f-e1a2-4c2d-9bf2-b400a597933f",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Simple Icon",
+    "style_code": "Style-2ee57e3c-108a-41dd-8b28-b16d0ceb6280",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Woodland Whimsy",
+    "style_code": "Style-19232ac5-378b-4030-985a-bf0c24ec0d52",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Drip Graffiti",
+    "style_code": "Style-bdaf0749-e6ae-48df-94fe-833e25dac192",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Bizarre Manga",
+    "style_code": "Style-f18fd656-204c-4a72-a9e0-fb7764ee5520",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "GTA Miami",
+    "style_code": "Style-b92052b1-043a-4b23-9b1f-7265d9f70c78",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "2D Character Sheet",
+    "style_code": "Style-4af1baca-83ae-4211-a468-a87fed23a86a",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Dashed Line ",
+    "style_code": "Style-c938f12a-5249-415d-aad1-aff858ca366f",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Dzine Kodak Photo",
+    "style_code": "Style-d00ac1f7-5a62-4f46-b3d0-d57645fb608f",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Realistic v1",
+    "style_code": "Style-0456acd7-2d02-46b4-bd83-b3816c221006",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Toon Face ",
+    "style_code": "Style-5ab39890-fc29-4766-9e1f-52ee26474695",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dzine Jewelry v1",
+    "style_code": "Style-f99a975f-eeb4-4340-819b-cb8cb4473ea8",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Dzine Anime",
+    "style_code": "Style-4026072a-55b1-492b-882b-36cba50fc964",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Dzine Line Art",
+    "style_code": "Style-23bd6260-7c17-47cc-8f12-6443c43fbfef",
+    "style_base_model": "X",
+    "style_intensity": 1
+  },
+  {
+    "name": "Dzine Cinematic",
+    "style_code": "Style-31c171a3-098d-4bea-b24f-5ba3a2adfe49",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Dzine 3D Render v1",
+    "style_code": "Style-32c8ebb7-ca4f-4d14-8ecd-477c6fc425d8",
+    "style_base_model": "X",
+    "style_intensity": 0
+  },
+  {
+    "name": "Realistic Jewelry",
+    "style_code": "Style-06ebbdae-2b66-450e-bd25-b601b5aaca52",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Shining Jewelry",
+    "style_code": "Style-2350eab7-db01-4444-9a85-be90351964f1",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "No Style v2",
+    "style_code": "Style-7feccf2b-f2ad-43a6-89cb-354fb5d928d2",
+    "style_base_model": "S",
+    "style_intensity": 0
+  },
+  {
+    "name": "Starlit Fantasy",
+    "style_code": "Style-9cde0ca9-78f0-4be5-a6a1-44dd74cfbaa0",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Magic Portrait",
+    "style_code": "Style-8d281dba-698e-41d0-98d1-6227e4f3c6c4",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "3D Rendering (legacy)",
+    "style_code": "Style-825edb61-4efc-40c3-814c-8abdd2d4579c",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Warm Portrait",
+    "style_code": "Style-4ab783c7-2955-4092-878e-965162241bf7",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "I'm in love with my car!",
+    "style_code": "Style-a4250684-ccfd-441b-8b29-db113aae8886",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Joyful Clay",
+    "style_code": "Style-7729f1f6-578b-4035-8514-edaa0637dd6d",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Luminous Grace",
+    "style_code": "Style-ed56f381-ba91-48b9-a885-d97080002220",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Skyborne Realm",
+    "style_code": "Style-5ad47638-c430-4cda-8bae-681c7af4e59e",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Vivid Tableaux",
+    "style_code": "Style-589373f8-1283-4570-baf9-61d02eb13391",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Pastel 3D  (legacy)",
+    "style_code": "Style-572e0ced-808a-4eb4-bde2-b6b8e05003d9",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Minimalist",
+    "style_code": "Style-f2880e88-aafa-4d8b-a8b4-aeb1868cba98",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Wood Tone",
+    "style_code": "Style-19c49f09-c72c-4eb7-86a4-c91c541680c0",
+    "style_base_model": "S",
+    "style_intensity": 1
+  },
+  {
+    "name": "Interior Design Insight",
+    "style_code": "Style-d68bf4be-308d-48e9-bf24-b0114dd45eed",
+    "style_base_model": "S",
+    "style_intensity": 0
+  },
+  {
+    "name": "Modern Glamorous ",
+    "style_code": "Style-deeb732f-effb-4127-ab7c-337e4bd203be",
+    "style_base_model": "S",
+    "style_intensity": 0.9
+  },
+  {
+    "name": "Dreamy Spectrum",
+    "style_code": "Style-e72b9767-6244-4d6f-b295-7a015de0e031",
+    "style_base_model": "S",
+    "style_intensity": 1
+  },
+  {
+    "name": "Glossy Elegance",
+    "style_code": "Style-04d8cbcf-6496-4d68-997e-516303502507",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Merry Minimalism",
+    "style_code": "Style-3c50d028-2dd3-42af-832c-396a8b483b29",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Cutie 3D (legacy)",
+    "style_code": "Style-f45b720c-656d-4ef0-bd86-f9f5afa63f0f",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Lore Symbol",
+    "style_code": "Style-62d54800-1bc8-4f93-8ad2-8bb2e28e466e",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Sketchbook Sticker",
+    "style_code": "Style-4a3b38cd-a49d-4b69-81e8-69134ca9cdc0",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Storybook Charm (legacy)",
+    "style_code": "Style-85480a6c-4aa6-4260-8ad1-a0b7423910cf",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Twilight Frontier",
+    "style_code": "Style-9e8378be-ad82-4d3b-ab25-035ceb3723fa",
+    "style_base_model": "S",
+    "style_intensity": 0.9
+  },
+  {
+    "name": "Steampunk Fusion",
+    "style_code": "Style-48924aab-439c-4c1a-ad72-8bd7872f03d9",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Yarn Realism",
+    "style_code": "Style-d77e6917-f36e-42f4-a0f5-427dda9e3deb",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Gothic Punk",
+    "style_code": "Style-32b49501-560f-4984-800c-ad6155f7e625",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Joyful Playthings",
+    "style_code": "Style-3c52524d-aba0-4672-bb88-91f5c09207d1",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Chromatic Vibrance",
+    "style_code": "Style-4c383971-082d-4bab-a1ae-84c574b0760b",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Tropical Pop",
+    "style_code": "Style-d7ece36f-3706-4506-9ba1-733084f8ceee",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Pure Easiness",
+    "style_code": "Style-3bc44405-8f97-4885-b81d-1ca0fec55b6b",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Golden Hour",
+    "style_code": "Style-90a8d36d-9a67-4619-a995-4036fda8474d",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Serene Nature",
+    "style_code": "Style-21ee7d5e-e962-4710-84b8-24313f4bae28",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Cartoon Anime",
+    "style_code": "Style-b484beb8-143e-4776-9a87-355e0456cfa3",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Dreamlike Portraiture",
+    "style_code": "Style-c0bde410-94f1-42d1-a1f6-d968aabbf689",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Studio Portrait",
+    "style_code": "Style-73c09435-b1f5-4baf-93d1-e28e10731301",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Linear Vivacity",
+    "style_code": "Style-6cbfb919-1a64-44f1-b33a-080d1d683ba8",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Makeup Vanguard",
+    "style_code": "Style-e92f9174-1aa8-4c49-8204-ab0c02beb250",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Kiddie Palette",
+    "style_code": "Style-16d8be4d-46fc-45da-b2c4-ca43adebbae4",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Vivid Stylization",
+    "style_code": "Style-0f1ca659-5748-43c7-88f9-2ccb76f55800",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Felted Charm",
+    "style_code": "Style-772ace88-1700-414f-8a29-4f9263c2ec19",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Commercial Portrait",
+    "style_code": "Style-11350b9c-4efc-48c9-9c5d-62d17d0c2573",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Vibrant Whimsy",
+    "style_code": "Style-89c94c8f-9c94-4ef2-8fbd-e058648c92c7",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Vivacious Figurine",
+    "style_code": "Style-9b55c265-44b1-458c-98e0-7fa40f848833",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Monochrome Elegance",
+    "style_code": "Style-d8b4d82b-454b-4960-9242-e53d6ecf1af8",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Scandi",
+    "style_code": "Style-509ffd5a-e71f-4cec-890c-3ff6dcb9cb60",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Coastal",
+    "style_code": "Style-c32bb086-a625-45cf-bb78-bda71693f9aa",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Transitional",
+    "style_code": "Style-c09942c0-a71c-442f-93a4-cbcd766601d5",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "No Style v1",
+    "style_code": "Style-e8992306-9f46-4185-9dd0-6469cf738cee",
+    "style_base_model": "S",
+    "style_intensity": 0
+  },
+  {
+    "name": "Halloween Cutie",
+    "style_code": "Style-3f1baa51-ff08-4fcc-8849-3641465329f3",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Pastel Heart",
+    "style_code": "Style-a65877dd-d2fe-43e7-8658-496330febba1",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Mid-Century",
+    "style_code": "Style-7eebd066-4421-4cb3-befb-e81368d6bee8",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Industrial",
+    "style_code": "Style-10432db9-aceb-4a0e-9ed2-1fdb8997e1db",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Modern Hotel",
+    "style_code": "Style-afe9f475-5e99-4c9d-bbde-ae7b64325585",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "B&W Old School",
+    "style_code": "Style-f03e7239-fe31-405c-88e3-b30968aa30aa",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Boho",
+    "style_code": "Style-42c32add-b1ce-4e4a-8210-d5e1cc8d5c86",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "B&W Tattoo",
+    "style_code": "Style-d6417cc7-1343-4963-a099-f9680e00292c",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Creamy",
+    "style_code": "Style-ce2ce565-9417-4fa9-a5db-344b7fe25006",
+    "style_base_model": "S",
+    "style_intensity": 1
+  },
+  {
+    "name": "Watercolor Tattoo",
+    "style_code": "Style-b255ae64-f671-47ee-989c-c2a133b66b6d",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Whispering Lines",
+    "style_code": "Style-cac9b1ff-0941-4cb3-903f-9020bfd4b62a",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Zen Spirit",
+    "style_code": "Style-24b334a4-52eb-4f77-94fa-f37d7367d956",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Ancient China",
+    "style_code": "Style-666d19e1-2e33-4e64-95e8-588c8e20b02c",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Dreamy 3D",
+    "style_code": "Style-ae3dc56b-33b6-4f29-bd76-7f6aa1a87e8d",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Pastel Deil",
+    "style_code": "Style-dc151f14-d22f-4cf2-998a-28b4007eac6f",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Classic Memphis",
+    "style_code": "Style-4d6c5670-8b80-4868-938d-593e70243089",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Fantasy Home",
+    "style_code": "Style-edf0a27a-97bb-4eee-8e9d-7fdf4aefaea5",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Expressive Watercolor (legacy)",
+    "style_code": "Style-35dd6d58-d0df-44bf-8759-d5cffd0383c8",
+    "style_base_model": "X",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Flamenco Dance (legacy)",
+    "style_code": "Style-5e28d7f9-8754-4aae-ac5f-8297dd6f39d5",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "GTA Comic (legacy)",
+    "style_code": "Style-dc010902-cf5d-41d8-be3d-ac87867e77f2",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Furry (legacy)",
+    "style_code": "Style-cbda4c4f-db2c-44da-9677-6278aaeed69f",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Lineart Whimsy (legacy)",
+    "style_code": "Style-fab6d5f9-2f09-4ff8-8cd4-fb54309b9751",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Y2k Games (legacy)",
+    "style_code": "Style-e293589d-1dbc-48c9-b84d-775af756abff",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Colorful Felt (legacy)",
+    "style_code": "Style-48f44663-b5cc-4f8d-ace8-d0a12bf0f4df",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Sticker POP (legacy)",
+    "style_code": "Style-9fecc617-8ac3-4b42-ba13-9d8dbbb7bad6",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Pixel Art (legacy)",
+    "style_code": "Style-07b90460-1c30-43f3-b808-bdbdf2a84bd3",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Back to 1950 (legacy)",
+    "style_code": "Style-b0e921e0-7c70-483f-b317-bec2d8311c5e",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Hyperbolic Portraiture (legacy)",
+    "style_code": "Style-b2325db2-bcbb-442e-b415-acf6b3b14eda",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Storytime Whimsy (legacy)",
+    "style_code": "Style-05c3d679-f8e9-4883-b9c9-adfe0988d1a5",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "American Story (legacy)",
+    "style_code": "Style-f0784f2e-afae-4d64-ab26-afe55724366e",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Cute Exaggeration (legacy)",
+    "style_code": "Style-11393e3a-ec40-402f-82cf-57c19bea8d12",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Illustrated Drama (legacy)",
+    "style_code": "Style-75e30e7a-c403-46e0-a6e3-f9f90db65b05",
+    "style_base_model": "S",
+    "style_intensity": 0.9
+  },
+  {
+    "name": "Enchanted Character (legacy)",
+    "style_code": "Style-d7081cbc-bdb3-4d75-8eed-88d42813b31e",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Delicate Aquarelle (legacy)",
+    "style_code": "Style-31bbb0d0-20e2-460b-9280-6835200a4b73",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Negative Space (legacy)",
+    "style_code": "Style-514f0a21-dcc0-4954-80c2-ae9b94062101",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": " Simple Playful (legacy)",
+    "style_code": "Style-9c71641f-e5d4-47be-a02e-e6082ac970a7",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Whimsical Coloring (legacy)",
+    "style_code": "Style-206baa8c-5bbe-4299-b984-9243d05dce9b",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Manga Sketch (legacy)",
+    "style_code": "Style-63060571-c7b9-4fa9-a111-6dff5120e5a0",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Ceramic Lifelike (legacy)",
+    "style_code": "Style-3f616e35-6423-4c53-aa27-be28860a4a7d",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Modern Professional (legacy)",
+    "style_code": "Style-a34dc9e4-2159-4a71-8ce9-209b3c72c638",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Bold Linework (legacy)",
+    "style_code": "Style-523dbb48-c408-4dbe-bd7a-76fde2bc5c62",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Playful Enamel (legacy)",
+    "style_code": "Style-0cd971cb-1e19-4909-a389-9b0c4fc79fd8",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Inked Realism (legacy)",
+    "style_code": "Style-11ead7fd-0a37-4f3d-a1a2-66558f036f74",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Color Block Chic (legacy)",
+    "style_code": "Style-9e321a6e-4daa-4ce4-a94f-07fd8d74b2aa",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Neo-Tokyo Noir (legacy)",
+    "style_code": "Style-ef7cd261-aa41-4b12-b32b-db23d159af58",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Sleek Simplicity (legacy)",
+    "style_code": "Style-e9a4495e-2f15-4ab7-909d-473af6fb6c9c",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Aquarelle Life (legacy)",
+    "style_code": "Style-ada3a8d4-0e66-4bb0-aab3-e04a0ade4333",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Cheerful Storybook (legacy)",
+    "style_code": "Style-a941aee9-7964-4445-b76a-7c3ff912f926",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Digital Ukiyo-e (legacy)",
+    "style_code": "Style-dfc9c140-9bf6-413e-9813-805b6f4e9201",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Narrative Film (legacy)",
+    "style_code": "Style-0db709d8-fd07-4405-b598-dc8b9806f97f",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Narrative Chromatism (legacy)",
+    "style_code": "Style-7841103e-1d38-41b1-b69b-1c92a1decf6a",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Simplified Scenic (legacy)",
+    "style_code": "Style-183ed511-46b8-445d-850a-426cbd347bc3",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Enchanted Elegance (legacy)",
+    "style_code": "Style-27caad74-d49c-4b4f-b3c3-88ae56f24a25",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Neon Portraiture (legacy)",
+    "style_code": "Style-d81ea35b-c0e0-4dae-b7c1-44b105f6cf91",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Neo-Digitalism (legacy)",
+    "style_code": "Style-eafec3fc-cf1a-4dec-b1cc-ff842546f71b",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Impressionist Harmony (legacy)",
+    "style_code": "Style-805c35f4-47f2-4eea-b497-cf88deddbf8e",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Pulp Vibrance (legacy)",
+    "style_code": "Style-d85bc2fc-5965-42a9-b66a-72d09c76b425",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Paper Cutout (legacy)",
+    "style_code": "Style-541a2afd-904a-4968-bc60-8ad0ede22a86",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Spellcraft Curio (legacy)",
+    "style_code": "Style-739251a0-631c-46cc-95ef-648426b4bc12",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Shimmering Glow (legacy)",
+    "style_code": "Style-16dd4ac7-63e1-40ae-bb87-472e820c93f8",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Vibrant Impasto (legacy)",
+    "style_code": "Style-b7c0d088-e046-4e9b-a0fb-a329d2b9a36a",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Chromatic Mystique (legacy)",
+    "style_code": "Style-f3bbf190-9259-4487-b7a3-8cbbceb146c3",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Structured Serenity (legacy)",
+    "style_code": "Style-bfb2db5f-ecfc-4fe9-b864-1a5770d59347",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Romantic Nostalgia (legacy)",
+    "style_code": "Style-e4164d34-3046-48ae-a43b-98c4ec97ce8d",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Ethereal Vistas (legacy)",
+    "style_code": "Style-3792e195-d6c4-4bea-9cd1-41bf27524b5e",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Minimalist Cartoon (legacy)",
+    "style_code": "Style-db8517c2-9364-4975-969f-defd9c0695d6",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Rubber Hose Classic (legacy)",
+    "style_code": "Style-f8b823ee-a917-4825-ba37-88a37d2c9ea2",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Memphis Illustration (legacy)",
+    "style_code": "Style-30dd5a41-c881-4281-a093-ab79f71e6479",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Stylized Fauna (legacy)",
+    "style_code": "Style-5ea650bb-4da7-4a69-8a72-96a1268b7706",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Lively Stickerism (legacy)",
+    "style_code": "Style-9dc40c26-a009-4227-a44b-21906ee0f197",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Arcane Elegance (legacy)",
+    "style_code": "Style-152e3526-4aee-4397-a56d-6ca909960b47",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Impasto Realms (legacy)",
+    "style_code": "Style-22c7048a-4f9c-4c6e-95cd-4af1fd692e8f",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Mystic Ethereal (legacy)",
+    "style_code": "Style-83200ea4-1b15-460e-a6e1-dec9ff6f719c",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Vibrant Tranquility (legacy)",
+    "style_code": "Style-a923ed22-5dce-46de-b1ad-e42184d6eb18",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Warm Fables (legacy)",
+    "style_code": "Style-21a75e9c-3ff8-4728-99c4-94d448a489a1",
+    "style_base_model": "S",
+    "style_intensity": 0.9
+  },
+  {
+    "name": "Mystical Escape (legacy)",
+    "style_code": "Style-55f304bb-2776-4eeb-be86-bb0390311381",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Watercolor Whimsy (legacy)",
+    "style_code": "Style-7f3f81ad-1c2d-4a15-944d-66bf549641de",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Minimalist Cutesy (legacy)",
+    "style_code": "Style-2bdfdfec-0ddb-4bca-aa2a-cca1abbc48f7",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Line Scape (legacy)",
+    "style_code": "Style-0e77480d-1399-4267-91db-6f3db00ed66d",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Psychedelic Illustration (legacy)",
+    "style_code": "Style-f15ee66e-cb33-4130-8d52-a954b5be9904",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Sketch Elegance (legacy)",
+    "style_code": "Style-e9021405-1b37-4773-abb9-bd80485527b0",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Neon Futurism (legacy)",
+    "style_code": "Style-0176d8d5-4f0d-4dd7-9b6b-1b6ff08264be",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Retro Radiance (legacy)",
+    "style_code": "Style-828e6c22-7039-4521-a371-c8a858b7d772",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Retro Sci-Fi (legacy)",
+    "style_code": "Style-4e17d85d-eda2-4330-ac29-d0ae2dc3c5f6",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Eerie Realm (legacy)",
+    "style_code": "Style-4d2d1c33-cf63-49ed-9d86-2b5dc2b8eccf",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Innocent Cutie (legacy)",
+    "style_code": "Style-c7e442ba-261c-450a-899b-5ae85c918b4b",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Apocalyptic Photography (legacy)",
+    "style_code": "Style-0d495ae3-3b7a-40ac-b629-a1e10fbb3a97",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Nouveau Classic (legacy)",
+    "style_code": "Style-7b57d4ef-98ea-4101-b048-db2b4fd28c70",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Ethereal Enchantments (legacy)",
+    "style_code": "Style-bae84a35-3742-4263-abb8-69f02e99b1c4",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Soft Radiance (legacy)",
+    "style_code": "Style-7c3af5f6-4945-4eb2-b00b-34f77b0b8d41",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Mystical Sovereignty (legacy)",
+    "style_code": "Style-04329eae-1af6-4f06-a97c-f4b2b48516de",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Playful Seaside (legacy)",
+    "style_code": "Style-a7fc009a-2af6-43dd-aeae-934378dca26a",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Fantasy Hero (legacy)",
+    "style_code": "Style-caa14e89-823b-4f8e-8d84-7368f9cec7cf",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Luminous Portraiture (legacy)",
+    "style_code": "Style-7170d051-dda3-4b6c-b63c-b781d6b2c149",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Line & Wash (legacy)",
+    "style_code": "Style-bc151055-fd2b-4650-acd7-52e8e8818eb9",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Luminous Narratives (legacy)",
+    "style_code": "Style-ce7b4279-1398-4964-882c-19911e12aef3",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Bedtime Story (legacy)",
+    "style_code": "Style-8ee4b050-ef89-4058-8521-66223259bb30",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Impasto Comics (legacy)",
+    "style_code": "Style-ba428a7b-fc8f-4362-bfa2-9b8502b8522c",
+    "style_base_model": "S",
+    "style_intensity": 0.8
+  },
+  {
+    "name": "Whimsical Brushwork (legacy)",
+    "style_code": "Style-e2f14b9b-819d-4389-980f-71b83f55271d",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Linear Cartoon (legacy)",
+    "style_code": "Style-10d6b59c-d639-4e2b-853a-0662fa7c22c6",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Illustrative Nostalgia (legacy)",
+    "style_code": "Style-9ebf6808-d42f-4f5d-b29e-2dd743030abc",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Film Narrative (legacy)",
+    "style_code": "Style-e49fa7e6-d196-4a76-a65d-719120e3735d",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Graffiti Splash (legacy)",
+    "style_code": "Style-f9ba459d-addd-4e80-9a2e-67439fb50446",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Pleasantly Warm (legacy)",
+    "style_code": "Style-f8ee0e8d-62ea-48b6-8323-15c5a6c62e2c",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "8-Bit Arcade (legacy)",
+    "style_code": "Style-f22b0501-07a8-4f93-ac65-182c1cd5b4ca",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Everything Kawaii (legacy)",
+    "style_code": "Style-455da805-d716-4bc8-a960-4ac505aa7875",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Into the Future (legacy)",
+    "style_code": "Style-649ee241-2362-496c-b35c-9d50f35fe1fa",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Minimalist Characters (legacy)",
+    "style_code": "Style-fd97ae78-9c73-4d17-9bb8-db0b2a5ee58f",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Tiny World (legacy)",
+    "style_code": "Style-f2513d63-611f-4646-9393-a4db8e00807d",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Piece of Holiday (legacy)",
+    "style_code": "Style-86c2fda1-cb95-4e64-adfb-629302f0a6cc",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Impressionist (legacy)",
+    "style_code": "Style-01b37b76-4f5b-421d-a6cc-759e8d7aba3f",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Elegant B&W (legacy)",
+    "style_code": "Style-17582428-1521-4d35-bc72-687ab6b28b51",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "3D Pixel (legacy)",
+    "style_code": "Style-57aaee49-fcb9-4c60-8afc-947ab64e3f05",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Vintage Engraving (legacy)",
+    "style_code": "Style-a8311e8a-ba8b-4cdf-84f9-4001f82cee83",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "B&W Drawing (legacy)",
+    "style_code": "Style-5973bb4d-eb0f-4612-b139-07755c366522",
+    "style_base_model": "S",
+    "style_intensity": 0.9
+  },
+  {
+    "name": "Retro Noir Chromatics (legacy)",
+    "style_code": "Style-e54a8400-fb2c-47a5-9418-8895c01382ce",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Inflatable Balloon",
+    "style_code": "Style-c291efc5-aa28-471b-b7c4-5bff5064e440",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Surreal Iridescence (legacy)",
+    "style_code": "Style-432262b0-4b66-412c-a240-0a214019b895",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Mysterious Night (legacy)",
+    "style_code": "Style-2395704f-e286-40ca-9908-b6f8d6aa04cf",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Glass World (legacy)",
+    "style_code": "Style-6e03f7b9-303c-4a7b-a061-79e91d81254e",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Bold Collage (legacy)",
+    "style_code": "Style-64894017-c7f5-4316-b16b-43c584bcd643",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Metallic Fluid (legacy)",
+    "style_code": "Style-7787fb08-79ad-4b04-8e44-cda0967a3d48",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Miniatures (legacy)",
+    "style_code": "Style-ffe72f04-f595-4338-bad0-ca73be6ab634",
+    "style_base_model": "S",
+    "style_intensity": 0.3
+  },
+  {
+    "name": "Battlecraft (legacy)",
+    "style_code": "Style-0845383b-5764-4e4d-8a90-01040d1f54e1",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  },
+  {
+    "name": "Majestic Logo (legacy)",
+    "style_code": "Style-cbb05ce0-ee0d-4bc7-85cd-7f9d15b6aa51",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Retro Sticker (legacy)",
+    "style_code": "Style-621d2709-3cc3-405b-a8d2-343ffb048fa3",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Apocalyptic Horror (legacy)",
+    "style_code": "Style-5b779d31-07d9-4dac-bc28-f41b6ca63ee2",
+    "style_base_model": "S",
+    "style_intensity": 0.7
+  },
+  {
+    "name": "Floral Tattoo (legacy)",
+    "style_code": "Style-999f4d6e-4c9a-487e-908f-fc34f598188f",
+    "style_base_model": "S",
+    "style_intensity": 0.6
+  },
+  {
+    "name": "Classic Dotwork (legacy)",
+    "style_code": "Style-16a93978-da65-4451-b564-cba5778246af",
+    "style_base_model": "S",
+    "style_intensity": 0.5
+  },
+  {
+    "name": "Monotone Vogue (legacy)",
+    "style_code": "Style-ec4c0fda-d9db-4bf4-b8b0-2f2675f6ac3e",
+    "style_base_model": "S",
+    "style_intensity": 0.4
+  }
+]
